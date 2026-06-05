@@ -21,16 +21,34 @@ Critères évalués :
 
 ## Page d'accueil
 
-![Rapport Lighthouse - Accueil](../assets/lighthouse/home-lighthouse.jpg)
+![Rapport Lighthouse - Accueil](../assets/lighthouse/home.png)
 
 ### Résultats
 
 | Critère | Score |
 |----------|----------|
-| Performance | XX |
-| Accessibility | XX |
-| Best Practices | XX |
-| SEO | XX |
+| Performance | 99 |
+| Accessibility | 100 |
+| Best Practices | 100 |
+| SEO | 100 |
+
+### Analyse
+
+La page d'accueil obtient d'excellents résultats sur l'ensemble des indicateurs. Les ressources sont correctement optimisées et les bonnes pratiques d'accessibilité sont respectées.
+
+---
+## Page garderie
+
+![Rapport Lighthouse - Garderie](../assets/lighthouse/daycare.png)
+
+### Résultats
+
+| Critère | Score |
+|----------|----------|
+| Performance | 99 |
+| Accessibility | 100 |
+| Best Practices | 100 |
+| SEO | 100 |
 
 ### Analyse
 
@@ -40,16 +58,16 @@ La page d'accueil obtient d'excellents résultats sur l'ensemble des indicateurs
 
 ## Recherche de petsitters
 
-![Rapport Lighthouse - Recherche de petsitters](../assets/lighthouse/petsitters-lighthouse.jpg)
+![Rapport Lighthouse - Recherche de petsitters](../assets/lighthouse/petsitter.png)
 
 ### Résultats
 
 | Critère | Score |
 |----------|----------|
-| Performance | XX |
-| Accessibility | XX |
-| Best Practices | XX |
-| SEO | XX |
+| Performance | 98 |
+| Accessibility | 96 |
+| Best Practices | 100 |
+| SEO | 100 |
 
 ### Analyse
 
@@ -59,16 +77,16 @@ Malgré la présence de filtres et de contenus dynamiques, la page conserve de b
 
 ## Profil d'un petsitter
 
-![Rapport Lighthouse - Profil petsitter](../assets/lighthouse/profile-lighthouse.jpg)
+![Rapport Lighthouse - Profil petsitter](../assets/lighthouse/profile.png)
 
 ### Résultats
 
 | Critère | Score |
 |----------|----------|
-| Performance | XX |
-| Accessibility | XX |
-| Best Practices | XX |
-| SEO | XX |
+| Performance | 99 |
+| Accessibility | 95 |
+| Best Practices | 100 |
+| SEO | 100 |
 
 ### Analyse
 
