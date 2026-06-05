@@ -1,4 +1,3 @@
-# Documentation technique - Paw Club
 
 ## Présentation
 
