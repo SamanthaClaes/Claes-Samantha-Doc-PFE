@@ -1,4 +1,4 @@
-# Accueil
+
 Bienvenue sur la documentation technique de Paw Club.
 
 ## Présentation
