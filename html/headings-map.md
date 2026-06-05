@@ -1,5 +1,3 @@
-# Headings Map
-
 ## Objectif
 
 Cette section présente la hiérarchie des titres des principales pages publiques de Paw Club afin de vérifier le respect des bonnes pratiques HTML en matière d'accessibilité et de référencement.
