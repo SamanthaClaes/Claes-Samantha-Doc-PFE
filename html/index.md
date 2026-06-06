@@ -1,4 +1,6 @@
-# Qualité du code HTML
+---
+title: Qualité du code HTML
+---
 
 Cette section présente les éléments démontrant la qualité du code HTML du projet Paw Club.
 
