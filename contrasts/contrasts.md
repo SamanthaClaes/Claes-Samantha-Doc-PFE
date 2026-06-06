@@ -26,11 +26,7 @@ Les résultats ont été comparés aux exigences WCAG 2.1 :
 
 ## Texte principal
 
-![Analyse du contraste du texte principal](../assets/contrasts/c_dblue.png)
-
-| Couleur du texte | Couleur du fond | Ratio |
-|----------|----------|----------|
-| #XXXXXX | #XXXXXX | XX:1 |
+![Analyse du contraste du texte principal](../assets/contrasts/c_blue.png)
 
 ### Analyse
 
@@ -41,11 +37,8 @@ Le contraste du texte principal respecte les recommandations WCAG AA et assure u
 ## Boutons principaux
 
 ![Analyse du contraste des boutons](../assets/contrasts/c_green.png)
+![Analyse du contraste des boutons](../assets/contrasts/c_red.png)
 
-| Élément | Ratio |
-|----------|----------|
-| Bouton principal | XX:1 |
-| Bouton secondaire | XX:1 |
 
 ### Analyse
 
@@ -58,10 +51,7 @@ Les boutons d'action présentent un contraste suffisant pour rester clairement i
 
 ![Analyse du contraste des éléments d'informations/cartes](../assets/contrasts/c_pink.png)
 ![Analyse du contraste des éléments d'informations/cartes](../assets/contrasts/c_orange.png)
-
-| Élément | Ratio |
-|----------|----------|
-| Message de succès | XX:1 |
+![Analyse du contraste des éléments d'informations/cartes](../assets/contrasts/c_dblue.png)
 
 
 ### Analyse
