@@ -1,10 +1,9 @@
 
 
 ## Objectif
-
+---
 Cette section présente l'analyse des contrastes de couleurs utilisés dans Paw Club. L'objectif est de vérifier le respect des recommandations d'accessibilité du WCAG (Web Content Accessibility Guidelines) afin de garantir une bonne lisibilité des contenus pour l'ensemble des utilisateurs.
 J'ai utilisé le site color picker pour réaliser mes tests de contrasts.
----
 
 ## Méthodologie
 
@@ -30,7 +29,7 @@ Les résultats ont été comparés aux exigences WCAG 2.1 :
 
 ### Analyse
 
-Le contraste du texte principal respecte les recommandations WCAG AA et assure une lecture confortable sur l'ensemble des pages du site.
+Le contraste du texte principal respecte les recommandations WCAG AAA et assure une lecture confortable sur l'ensemble des pages du site.
 
 ---
 
