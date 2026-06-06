@@ -1,4 +1,6 @@
-# Audit Lighthouse
+---
+title: Audit Lighthouse
+---
 
 ## Objectif
 
