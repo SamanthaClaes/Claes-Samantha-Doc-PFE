@@ -45,61 +45,61 @@ La taille des éléments cliquables est suffisante.
 ## Structure et code
 Le codage de caractères utilisé est UTF-8. 
 
-![Code et source](../assets/opquast.utf8.png)
+![Code et source](../assets/opquast/utf8.png)
 
 Le contenu de chaque page est organisé selon une structure de titres et sous-titres hiérarchisée. 
 
-![Code et source](../assets/opquast.hierarchie.png)
+![Code et source](../assets/opquast/hierarchie.png)
 
 ## Données personnelles
 La politique de confidentialité et de respect de la vie privée est disponible depuis toutes les pages. 
 
-![Données personnelles](../assets/opquast.terms.png)
+![Données personnelles](../assets/opquast/terms.png)
 
 La création de compte est possible sans recours à un système d'identification tiers. 
-![Données personnelles](../assets/opquast.register.png)
+![Données personnelles](../assets/opquast/register.png)
 
 ## Formulaire
 Chaque champ de formulaire est associé dans le code source à une étiquette qui lui est propre. 
 
-![Formulaire](../assets/opquast.input.png)
+![Formulaire](../assets/opquast/input.png)
 
 L'étiquette de chaque champ de formulaire indique si la saisie est obligatoire. 
 
-![Formulaire](../assets/opquast.required.png)
+![Formulaire](../assets/opquast/required.png)
 
 ## Images et Médias
 
 Chaque image décorative est dotée d'une alternative textuelle appropriée. 
 
-![Images et médias](../assets/opquast.alt.png)
-![Images et médias](../assets/opquast.alt2.png)
+![Images et médias](../assets/opquast/alt.png)
+![Images et médias](../assets/opquast/alt2.png)
 
 ## Liens
 Les numéros de téléphone sont activables via le protocole approprié. 
 
-![Liens](../assets/opquast.phone.png)
+![Liens](../assets/opquast/phone.png)
 
 Chaque lien est doté d'un intitulé dans le code source. 
 
-![Liens](../assets/opquast.name.png)
+![Liens](../assets/opquast/name.png)
 
 ## Serveur et performances 
 L'adresse du site fonctionne avec et sans préfixe www.
 
-![Serveur et performances](../assets/opquast.address.png)
+![Serveur et performances](../assets/opquast/address.png)
 
 Le serveur envoie un code HTTP 404 pour les ressources non trouvées. 
 
-![Serveur et performances](../assets/opquast.404.png)
+![Serveur et performances](../assets/opquast/404.png)
 
 ## Sécurité
 Les mots de passe peuvent être choisis ou changés par l'utilisateur. 
-![Sécurité](../assets/opquast.register.png)
-![Sécurité](../assets/opquast.password.png)
+![Sécurité](../assets/opquast/register.png)
+![Sécurité](../assets/opquast/password.png)
 
 Les mots de passe peuvent être réinitialisés. 
-![Sécurité](../assets/opquast.change.png)
+![Sécurité](../assets/opquast/change.png)
 
 
 
