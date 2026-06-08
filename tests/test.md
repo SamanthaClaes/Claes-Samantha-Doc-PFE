@@ -1,3 +1,4 @@
+---
 title: Tests utilisateurs
 ---
 
@@ -23,11 +24,11 @@ mais rien indique pourquoi il ne peut pas sélectionner son animal.
 
 ## 2ème test
 
-![Test utilisateur](../assets/test/vidH1)
-![Test utilisateur](../assets/test/vidH2)
-![Test utilisateur](../assets/test/vidH3)
-![Test utilisateur](../assets/test/vidH4)
-![Test utilisateur](../assets/test/vidH5)
+![Test utilisateur](../assets/test/vidH1.mp4)
+![Test utilisateur](../assets/test/vidH2.mp4)
+![Test utilisateur](../assets/test/vidH3.mp4)
+![Test utilisateur](../assets/test/vidH4.mp4)
+![Test utilisateur](../assets/test/vidH5.mp4)
 
 On peut voir que l'utilisateur à rencontré les mêmes problèmes que l'utilisateur 1.
 
