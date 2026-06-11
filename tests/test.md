@@ -15,8 +15,7 @@ Les 3 participants devaient réaliser 5 tâches
 
 ## 1er test
 
-![Test utilisateur](../assets/test/vidC1)
-![Test utilisateur](../assets/test/vidC2)
+Les vidéos se trouvent sur FIGMA dans l'onglet 'test utilisateur'
 
 On peut apercevoir que l'utilisateur ne se créer pas un compte petsitter car l'information n'est pas claire.
 Pour la demande de garde en garderie, on peut voir que l'utilisateur n'y parvient pas, c'est le comportement normal de l'application
@@ -33,3 +32,7 @@ mais rien indique pourquoi il ne peut pas sélectionner son animal.
 On peut voir que l'utilisateur à rencontré les mêmes problèmes que l'utilisateur 1.
 
 ## 3ème test
+
+Les vidéos se trouvent sur FIGMA dans l'onglet 'test utilisateur'
+
+L'utilisateur à rencontré des soucis liés au traduction n'empêchant pas le bon fonctionnement de l'application, il a aussi rencontré le problème qui affectait la soumission de son formulaire de demande de garde.
